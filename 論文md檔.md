@@ -112,9 +112,8 @@ Colaboratory 是一個免費的 Jupyter 筆記本環境，不需要進行任何�
 colab是一個可使用瀏覽器線上編輯的雲端筆記本，並且可以使用google提供的GPU或是TPU，不需在自己的主機建構環境。
 
 ## 第三章 系統架構與規劃
-#### 3.1 系統前半js與html之偵測
-##### 3.1.1 
-##### 3.1.2
 #### 3.2 系統後半分析部分
 ## 第四章 系統細部與執行結果
 ## 第五章 結論與未來展望
+
+其他內容請使用台灣碩博士論文網查詢:https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=ECK0VI/webmge?switchlang=en
